@@ -1,5 +1,7 @@
 site_name: JamCore Mod Wiki
+site_description: Information about JamCore Modding's mods and APIs.
 site_url: https://docs.jamalam.tech/
+site_author: The JamCore Modding Team
 
 repo_url: https://github.com/JamCoreModding/docs
 repo_name: JamCoreModding/docs
