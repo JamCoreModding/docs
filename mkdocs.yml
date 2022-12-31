@@ -14,6 +14,9 @@ nav:
   - Totally Balanced Bone Drops:
       - Introduction to Totally Balanced Bone Drops: totally-balanced-bone-drops/about.md
       - Configuring Totally Balanced Bone Drops: totally-balanced-bone-drops/configuration.md
+  - Utility Belt:
+      - Introduction to Utility Belt: utility-belt/about.md
+      - Configuring Utility Belt: utility-belt/configuration.md
 
 theme:
   name: material
