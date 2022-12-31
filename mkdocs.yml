@@ -11,6 +11,9 @@ nav:
   - Auto Recipe:
       - Introduction to Auto Recipe: auto-recipe/about.md
       - Getting Started with Auto Recipe: auto-recipe/getting-started.md
+  - Totally Balanced Bone Drops:
+      - Introduction to Totally Balanced Bone Drops: totally-balanced-bone-drops/about.md
+      - Configuring Totally Balanced Bone Drops: totally-balanced-bone-drops/configuration.md
 
 theme:
   name: material
