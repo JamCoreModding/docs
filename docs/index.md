@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+---
+project: docs
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Welcome to the Jam Core Wiki
 
-## Commands
+This wiki contains information about some of our mods and APIs, for both fellow developers and players.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Contributions are welcome! We're a small team of 2 people, so we can't do everything ourselves.

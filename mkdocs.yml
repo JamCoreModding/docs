@@ -6,19 +6,27 @@ repo_name: JamCoreModding/docs
 
 nav:
   - Home: index.md
-  - About: about.md
+  - Auto Recipe:
+      - Introduction to Auto Recipe: auto-recipe/about.md
+      - Getting Started with Auto Recipe: auto-recipe/getting-started.md
 
 theme:
   name: material
   logo: assets/JamCoreModding.png
   favicon: assets/JamCoreModding.png
+  language: en
+
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
+    - navigation.indexes
+    - navigation.expand
     - navigation.top
     - search.suggest
     - search.share
+    - content.code.annotate
+    
   palette:
     scheme: slate
     primary: red
@@ -27,6 +35,24 @@ theme:
 plugins:
   - search
   - social
+  - git-revision-date-localized:
+      type: timeago
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 extra:
   homepage: https://github.com/JamCoreModding
+
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.jamalam.tech
+    - icon: fontawesome/brands/github
+      link: https://github.com/JamCoreModding
+    - icon: fontawesome/solid/feather
+      link: https://maven.jamalam.tech
+
