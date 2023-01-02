@@ -20,6 +20,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/JamCoreModding.png
   favicon: assets/JamCoreModding.png
   language: en
