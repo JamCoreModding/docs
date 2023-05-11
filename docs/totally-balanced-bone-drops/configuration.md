@@ -7,14 +7,14 @@ If you are a player, you can configure TBBD via the configuration file. The conf
 ### Config Options
 
 - `chance`
-    - The chance that a bone will drop from an entity.
-    - Default: `COMMON`
-    - Options:
-        - `VERY_RARE`
-        - `RARE`
-        - `COMMON`
-        - `VERY_COMMON`
-        - `ABUNDANT`
+  - The chance that a bone will drop from an entity.
+  - Default: `COMMON`
+  - Options:
+    - `VERY_RARE`
+    - `RARE`
+    - `COMMON`
+    - `VERY_COMMON`
+    - `ABUNDANT`
 
 ## For Developers, or Advanced Players
 

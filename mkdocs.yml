@@ -17,6 +17,13 @@ nav:
   - Utility Belt:
       - Introduction to Utility Belt: utility-belt/about.md
       - Configuring Utility Belt: utility-belt/configuration.md
+  - RightClickHarvest:
+      - Introduction to RightClickHarvest: right-click-harvest/about.md
+      - Configuring RightClickHarvest: right-click-harvest/configuration.md
+      - Information for Developers & Modpack Creators:
+        - Depending on RightClickHarvest: right-click-harvest/developers/depending.md
+        - Tags: right-click-harvest/developers/tags.md
+        - API: right-click-harvest/developers/api.md
 
 theme:
   name: material
