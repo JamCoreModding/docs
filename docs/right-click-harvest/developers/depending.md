@@ -9,6 +9,9 @@ repositories {
 }
 
 dependencies {
+    // for fabric and quilt
     modImplementation("io.github.jamalam360:right-click-harvest:<VERSION>")
+    // for forge
+    implementation fg.deobf("io.github.jamalam360:right-click-harvest:<VERSION>")
 }
 ```
