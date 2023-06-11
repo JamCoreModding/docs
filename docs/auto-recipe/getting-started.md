@@ -50,7 +50,7 @@ in your mod initializer:
 RecipeType<TestRecipe> test = AutoRecipeRegistry.registerRecipeSerializer(new Identifier("mymod","test"), TestRecipe::new);
 ```
 
-That's it! No more boilerplate or having to write recipe serzalizers yourself.
+That's it! No more boilerplate or having to write recipe serializers yourself.
 It's easy to use your recipe type (`/data/mymod/recipes/test_recipe.json`):
 
 ```json

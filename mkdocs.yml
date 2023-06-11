@@ -24,6 +24,11 @@ nav:
         - Depending on RightClickHarvest: right-click-harvest/developers/depending.md
         - Tags: right-click-harvest/developers/tags.md
         - API: right-click-harvest/developers/api.md
+  - Tutorial Lib:
+      - Introduction to Tutorial Lib: tutorial-lib/about.md
+      - Getting Started with Tutorial Lib: tutorial-lib/getting-started.md
+      - Creating a Custom Stage: tutorial-lib/stages.md
+      - Creating a Custom Toast: tutorial-lib/toasts.md
 
 theme:
   name: material
