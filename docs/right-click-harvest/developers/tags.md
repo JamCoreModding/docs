@@ -1,8 +1,9 @@
 ## Block Tags
 
-- `hoe_required`: crops/blocks that require a hoe to be harvested, if `Config.requireHoe` is true.
 - `radius_harvest_blacklist`: crops/blocks that are ignored by the harvest in radius feature (e.g.
   cocoa beans).
+- `hoe_never_required`: Crops/blocks that never require a hoe to be harvested, even if `Config.requireHoe` is true.
+- (Deprecated for removal) ~~`hoe_required`: crops/blocks that require a hoe to be harvested, if `Config.requireHoe` is true.~~
 
 ## Item Tags
 
