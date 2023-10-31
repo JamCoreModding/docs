@@ -1,4 +1,4 @@
-site_name: JamCore Mod Wiki
+site_name: JamCore Wiki
 site_description: Information about JamCore Modding's mods and APIs.
 site_url: https://docs.jamalam.tech/
 site_author: The JamCore Modding Team
@@ -7,10 +7,10 @@ repo_url: https://github.com/JamCoreModding/docs
 repo_name: JamCoreModding/docs
 
 nav:
-  - Home: index.md
-  - Auto Recipe:
-      - Introduction to Auto Recipe: auto-recipe/about.md
-      - Getting Started with Auto Recipe: auto-recipe/getting-started.md
+  - Welcome: index.md
+  - JamLib:
+      - Getting Started: jamlib/getting-started.md
+      - Config API: jamlib/config-api.md
   - Totally Balanced Bone Drops:
       - Introduction to Totally Balanced Bone Drops: totally-balanced-bone-drops/about.md
       - Configuring Totally Balanced Bone Drops: totally-balanced-bone-drops/configuration.md
@@ -51,7 +51,7 @@ theme:
   palette:
     scheme: slate
     primary: red
-    accent: amber
+    accent: pink
 
 plugins:
   - search
@@ -65,6 +65,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - md_in_html
 
 extra:
   homepage: https://github.com/JamCoreModding
@@ -76,4 +79,6 @@ extra:
       link: https://github.com/JamCoreModding
     - icon: fontawesome/solid/feather
       link: https://maven.jamalam.tech
+    - icon: fontawesome/solid/dollar-sign
+      link: https://ko-fi.com/jamalamdev
 
