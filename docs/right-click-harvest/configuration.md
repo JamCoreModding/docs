@@ -1,8 +1,6 @@
-_For an introduction to RightClickHarvest, see the [About](about.md) page._
+The configuration file is located at `config/rightclickharvest.json5`. It can also be edited via the mod menu.
 
-## For Players
-
-If you are a player, you can configure RightClickHarvest via the configuration file. The configuration file is located at `config/right-click-harvest.json` (`.toml` on Forge). It can also be edited via Mod Menu.
+If you are a modpack or mod author, you may be interested in the [tags](/right-click-harvest/tags) or [API](/right-click-harvest/api)
 
 ### Config Options
 

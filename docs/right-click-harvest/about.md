@@ -9,6 +9,8 @@ RightClickHarvest is _the_ solution for right-click-to-harvest mods on Fabric, Q
 beans, and similar non-conventional crops. Crops added by other mods need no
 extra configuration to be supported, unlike other right-click-to-harvest mods.
 
-RightClickHarvest also supports advanced features such as using hunger to
-harvest, requiring a hoe to be held, and harvesting in a greater radius
-depending on the hoe used - all of which are toggleable.
+RightClickHarvest also supports other configurable features such as:
+
+- Using hunger to harvest,
+- Requiring a hoe to be held,
+- Harvesting in a greater radius depending on the tier of hoe used.

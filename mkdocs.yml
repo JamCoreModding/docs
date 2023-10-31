@@ -11,19 +11,17 @@ nav:
   - JamLib:
       - Getting Started: jamlib/getting-started.md
       - Config API: jamlib/config-api.md
+  - RightClickHarvest:
+      - Introduction: right-click-harvest/about.md
+      - Configuring RightClickHarvest: right-click-harvest/configuration.md
+      - Tags: right-click-harvest/tags.md
+      - API: right-click-harvest/api.md
   - Totally Balanced Bone Drops:
       - Introduction to Totally Balanced Bone Drops: totally-balanced-bone-drops/about.md
       - Configuring Totally Balanced Bone Drops: totally-balanced-bone-drops/configuration.md
   - Utility Belt:
       - Introduction to Utility Belt: utility-belt/about.md
       - Configuring Utility Belt: utility-belt/configuration.md
-  - RightClickHarvest:
-      - Introduction to RightClickHarvest: right-click-harvest/about.md
-      - Configuring RightClickHarvest: right-click-harvest/configuration.md
-      - Information for Developers & Modpack Creators:
-        - Depending on RightClickHarvest: right-click-harvest/developers/depending.md
-        - Tags: right-click-harvest/developers/tags.md
-        - API: right-click-harvest/developers/api.md
   - Tutorial Lib:
       - Introduction to Tutorial Lib: tutorial-lib/about.md
       - Getting Started with Tutorial Lib: tutorial-lib/getting-started.md

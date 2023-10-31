@@ -1,5 +1,0 @@
-RightClickHarvest has a minimal API that I use for adding compatibility with
-other mods. It can be used by depending on RCH via Maven (below). It currently
-only provides the callbacks accessible via `RightClickHarvestCallbacks`. The callbacks
-are usable via the event method on each mod loader (i.e. `#register` on Fabric & Quilt, 
-`@SubscribeEvent` on Forge).
