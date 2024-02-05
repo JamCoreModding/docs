@@ -6,7 +6,7 @@ If you are using our template mod, this works out of the box. Otherwise, you wil
 jar {
   manifest {
     attributes([
-	  'JamLib-File-Name'      : "my-cool-mod-${rootProject.version}.jar", (1)
+	  'JamLib-File-Name'      : "my-cool-mod-${rootProject.version}.jar", // (1)
 	])
   }
 }
