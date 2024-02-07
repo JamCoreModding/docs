@@ -167,6 +167,15 @@ transitive dependency.
 public float floatyValue = 3.2F;
 ```
 
+#### Hiding a Config Entry in the GUI
+
+You can hide a config entry in the GUI using the `@HiddenInGui` annotation. This prevents it from showing in generated config screens, which may be helpful when trying to add a GUI entry using an unsupported type (e.g. lists or maps) which cannot be displayed yet.
+
+```java title="Your Config Class"
+@HiddenInGui
+public List<String> evilListThatCannotBeDisplayedInAGui = List.of();
+```
+
 ### Creating Multiple Configs
 
 A mod can provide multiple configs to the config system, which will then create
