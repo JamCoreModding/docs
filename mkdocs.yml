@@ -8,6 +8,15 @@ repo_name: JamCoreModding/docs
 
 nav:
   - Welcome: index.md
+  - Template Mod:
+      - Getting Started: template-mod/getting-started.md
+      - Adding Platform Specific Mixins: template-mod/platform-specific-mixins.md
+      - Adding Access Wideners: template-mod/access-wideners.md
+      - Adding a Fabric-Like Subproject: template-mod/fabric-like-subproject.md
+      - Adding a Test Mod: template-mod/test-mod.md
+      - Adding Mixin Extras: template-mod/mixin-extras.md
+      - Publishing to a Maven Repository: template-mod/maven-repository.md
+      - Publishing: template-mod/publishing.md
   - JamLib:
       - Getting Started: jamlib/getting-started.md
       - Config API: jamlib/config-api.md
@@ -23,6 +32,8 @@ nav:
   - Utility Belt:
       - Introduction to Utility Belt: utility-belt/about.md
       - Configuring Utility Belt: utility-belt/configuration.md
+  - Template Mod:
+      - Getting Started: template-mod/getting-started.md
 
 theme:
   name: material
