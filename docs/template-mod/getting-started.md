@@ -6,18 +6,11 @@ Our template mod:
 - can be initialized quickly using a custom CLI,
 - supports Forge, NeoForge, Fabric, and Quilt via Architectury,
 - comes with [JamLib](/jamlib/getting-started) included (although this can quite easily be removed),
-- is well documented.
 
 ## Using the Template
 
 ## What Next?
 
-In short, start modding! We have also made some other tutorials here covering common use cases:
+In short, start modding! Updates to this documentation with specific tutorials will be made as and when I use the features - when I implement a test mod into one of my mods, I will document it here for future reference, for example.
 
-- [Adding an access widener](/template-mod/access-wideners)
-- [Using a 'fabric-like' subproject](/template-mod/fabric-like-subproject)
-- [Adding platform specific mixins](/template-mod/platform-specific-mixins)
-- [Using [MixinExtras](https://github.com/LlamaLad7/MixinExtras)](/template-mod/mixin-extras)
-- [Adding a test mod](/template-mod/test-mod)
-- [Publishing to a Maven repository](/template-mod/maven-repository)
-- [Publishing to GitHub, Modrinth, and Curseforge automatically](/template-mod/publishing)
+The [JamLib GitHub repository](https://github.com/JamCoreModding/jamlib) is a useful reference as it uses this template while extending it with features such as Maven publishing and a test mod sourceset.
