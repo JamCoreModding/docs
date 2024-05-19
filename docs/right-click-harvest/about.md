@@ -1,16 +1,21 @@
-![Supported on Quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/supported/quilt_vector.svg)
-![Supported on Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/supported/fabric_vector.svg)
-![Supported on Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/supported/forge_vector.svg)
-[![Available on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/rightclickharvest)
-[![Available on CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
-[![Available on GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/github_vector.svg)](https://github.com/JamCoreModding/right-click-harvest)
+![RCH Banner](https://www.bisecthosting.com/images/CF/RightClickHarvest/BH_RH_HEADER.webp)
 
-RightClickHarvest is _the_ solution for right-click-to-harvest mods on Fabric, Quilt, and Forge. It supports regular crop harvesting, as well as sugarcane, cocoa
-beans, and similar non-conventional crops. Crops added by other mods need no
-extra configuration to be supported, unlike other right-click-to-harvest mods.
+<p align="center">RightClickHarvest is a mod for Fabric, (Neo)Forge, and Quilt that allows harvesting a variety of crops with just a right click.</p>
 
-RightClickHarvest also supports other configurable features such as:
+<img alt="About RightClickHarvest" src="https://www.bisecthosting.com/images/CF/RightClickHarvest/BH_RH_BANNER1.webp" />
 
-- Using hunger to harvest,
-- Requiring a hoe to be held,
-- Harvesting in a greater radius depending on the tier of hoe used.
+<center><img width="100%" src="https://github.com/JamCoreModding/right-click-harvest/blob/1.20.2-multiloader/demo.gif?raw=true" /></center>
+
+<center>
+<a href="https://curseforge.com/minecraft/mc-mods/rightclickharvest"><img alt="Download on Curseforge" height="20" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"></a>
+<a href="https://docs.jamalam.tech/right-click-harvest/about/"><img alt="Read the Documentation" height="20" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/ghpages_vector.svg"/> </a>
+<a href="https://modrinth.com/mod/rightclickharvest"><img alt="Download on Modrinth" height="20" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
+</center>
+
+<img alt="Features of RightClickHarvest" src="https://www.bisecthosting.com/images/CF/RightClickHarvest/BH_RH_BANNER2.webp" />
+
+- Harvest your crops with ease.
+- Harvest all vanilla crops, including cocoa beans and sugar cane.
+- Harvest 99% of modded crops without configuration.
+- Configure if a hoe is required and whether harvesting uses hunger points.
+- Configure whether higher tier hoes harvest in a larger radius.
