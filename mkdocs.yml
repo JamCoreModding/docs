@@ -8,6 +8,7 @@ repo_name: JamCoreModding/docs
 
 nav:
   - Welcome: index.md
+  - Supported Versions: supported-versions.md
   - JamLib:
       - Getting Started: jamlib/getting-started.md
       - Config API: jamlib/config-api.md
