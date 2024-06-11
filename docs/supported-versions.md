@@ -15,8 +15,8 @@ issue on GitHub, but do not be surprised if it is closed.
 | [Utility Belt](https://github.com/JamCoreModding/utility-belt)                     | ❌      | ❌     | ❌     | ❌     | ❌     | ✅     | ✅     | 🚧   |
 | [Shut Up GL Error](https://github.com/JamCoreModding/shut-up-gl-error)*            | ❌      | ❌     | ❌     | ✅     | ✅     | ❌     | ❌     | ❌   |
 | [Reaping](https://github.com/JamCoreModding/reaping)                               | ❌      | ❌     | ❌     | ❌     | ❌     | ✅     | ✅     | 🚧   |
-| [Wake Up Time](https://github.com/JamCoreModding/wake-up-time)                     | ❌      | ❌     | ❌     | ❌     | ❌     | ✅     | 🚧     | 🚧   |
-| [You May Rest Now](https://github.com/JamCoreModding/you-may-rest-now)             | ❌      | ❌     | ❌     | ❌     | ❌     | ✅     | 🚧     | 🚧   |
+| [Wake Up Time](https://github.com/JamCoreModding/wake-up-time)                     | ❌      | ❌     | ❌     | ❌     | ❌     | ✅     | ✅     | 🚧   |
+| [You May Rest Now](https://github.com/JamCoreModding/you-may-rest-now)             | ❌      | ❌     | ❌     | ❌     | ❌     | ✅     | ✅     | 🚧   |
 | [Quicker Connect Button](https://github.com/JamCoreModding/quicker-connect-button) | ❌      | ❌     | ❌     | ❌     | ❌     | ✅     | ✅     | 🚧   |
 
 \* I can no longer reproduce this error on newer versions, so the mod is
