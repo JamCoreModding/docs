@@ -14,7 +14,7 @@ issue on GitHub, but do not be surprised if it is closed.
 | [RightClickHarvest](https://github.com/JamCoreModding/right-click-harvest)         | ❌      | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | ✅   |
 | [Utility Belt](https://github.com/JamCoreModding/utility-belt)                     | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | ✅     | 🚧   |
 | [Shut Up GL Error](https://github.com/JamCoreModding/shut-up-gl-error)*            | ❌      | ❌     | ❌     | 💤     | 💤    | ❌     | ❌     | ❌   |
-| [Reaping](https://github.com/JamCoreModding/reaping)                               | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | ✅     | 🚧   |
+| [Reaping](https://github.com/JamCoreModding/reaping)                               | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | ✅     | ✅   |
 | [Wake Up Time](https://github.com/JamCoreModding/wake-up-time)                     | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | ✅     | 🚧   |
 | [You May Rest Now](https://github.com/JamCoreModding/you-may-rest-now)             | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | ✅     | 🚧   |
 | [Quicker Connect Button](https://github.com/JamCoreModding/quicker-connect-button) | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | ✅     | 🚧   |
