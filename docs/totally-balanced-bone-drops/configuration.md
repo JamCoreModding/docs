@@ -18,7 +18,7 @@ If you are a player, you can configure TBBD via the configuration file. The conf
 
 ## For Developers, or Advanced Players
 
-TBBD operates on a blacklist system. If a `LivingEntity` is not in the blacklist, it will drop a bone. The blacklist is in the form of an entity tag, located at `data/tb-bone-drops/tags/entity_types/blacklist.json`. You can use this to blacklist entities from dropping bones. 
+TBBD operates on a blacklist system. If a `LivingEntity` is not in the blacklist, it will drop a bone. The blacklist is in the form of an entity tag, located at `data/tb-bone-drops/tags/entity_type/blacklist.json`. You can use this to blacklist entities from dropping bones. 
 
 ### Default Entries
 

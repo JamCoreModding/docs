@@ -38,12 +38,14 @@ is easy.
 public class Config {
 	public boolean requireHoe = false; // (1)
 	public int rollTimes = 3; // (2)
+	public List<Integer> listOfInts = new ArrayList<>(List.of(1, 2, 3)); // (3)
 }
 ```
 
 1. Config fields should be `public`, not `static`, and not `final`.
 2. The default value for this field is `3`. This will be used when making a new
    config or when this field is added to an old config.
+3. Lists are supported, but make sure that the default value is mutable - an `ArrayList` is a safe bet.
 
 ```java title="Your Mod Initializer"
 public class YourModInit { // (1)

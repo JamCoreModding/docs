@@ -13,5 +13,5 @@ Available options are documented in comments or tooltips.
 Utility Belt contains an item tag, `utility_belt:allowed_in_utility_belt`. The
 utility belt accepts several items by Java class (namely `TieredItem`, `Brush`, etc.), as well as those in
 this tag. If you want to add an item to the utility belt, add it to this tag
-(`/data/utility_belt/tags/items/allowed_in_utility_belt.json`).
+(`/data/utility_belt/tags/item/allowed_in_utility_belt.json`).
 
