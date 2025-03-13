@@ -18,6 +18,7 @@ issue on GitHub, but do not be surprised if it is closed.
 | [Wake Up Time](https://github.com/JamCoreModding/wake-up-time)                     | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | 🚧     | 🚧     |
 | [You May Rest Now](https://github.com/JamCoreModding/you-may-rest-now)             | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | 🚧     | 🚧     |
 | [Quicker Connect Button](https://github.com/JamCoreModding/quicker-connect-button) | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | 🚧     | 🚧     |
+| [Sort It Out!](https://github.com/JamCoreModding/sort-it-out) | ❌      | ❌     | ❌     | ❌     | ❌     | ❌     | ❌     | 🚧     | ✅     | ✅     |
 
 - **\*1**: Accessories does not support this version, so Utility Belt is unavailable for it.
 
