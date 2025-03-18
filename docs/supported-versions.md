@@ -12,7 +12,7 @@ issue on GitHub, but do not be surprised if it is closed.
 | ---------------------------------------------------------------------------------- | ------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | [JamLib](https://github.com/JamCoreModding/jamlib)                                 | ❌      | ❌     | ❌     | ✅     | 💤     | 💤     | 💤     | ✅     | 💤     | ✅     |
 | [RightClickHarvest](https://github.com/JamCoreModding/right-click-harvest)         | ❌      | ❌     | ❌     | ✅     | 💤     | 💤     | 💤     | ✅     | 💤     | ✅     |
-| [Utility Belt](https://github.com/JamCoreModding/utility-belt)                     | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | ❌\*1  | ✅     |
+| [Utility Belt](https://github.com/JamCoreModding/utility-belt)                     | ❌      | ❌     | ❌     | ❌\*3     | ❌     | 💤     | 💤     | ✅     | ❌\*1  | ✅     |
 | [Shut Up GL Error](https://github.com/JamCoreModding/shut-up-gl-error)\*2          | ❌      | ❌     | ❌     | 💤     | 💤     | ❌     | ❌     | ❌     | ❌     | ❌     |
 | [Reaping](https://github.com/JamCoreModding/reaping)                               | ❌      | ❌     | ❌     | 🚧     | ❌     | 💤     | 💤     | ✅     | ❌     | 🚧     |
 | [Wake Up Time](https://github.com/JamCoreModding/wake-up-time)                     | ❌      | ❌     | ❌     | 🚧     | ❌     | 💤     | 💤     | ✅     | ❌     | 🚧     |
@@ -24,6 +24,8 @@ issue on GitHub, but do not be surprised if it is closed.
 
 - **\*2**: I can no longer reproduce this error on newer versions, so the mod is
 discontinued. If you can reproduce the error reliably, please let me know.
+
+- **\*3**: Utility Belt was available on this version, but it was archived due to **game-breaking** bugs. New versions will likely NOT be backported to 1.20.1 due to significant Minecraft code changes.
 
 _Any mods not listed in this table are likely discontinued. If unsure, feel free
 to reach out via Discord._
