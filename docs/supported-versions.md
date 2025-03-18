@@ -14,11 +14,11 @@ issue on GitHub, but do not be surprised if it is closed.
 | [RightClickHarvest](https://github.com/JamCoreModding/right-click-harvest)         | ❌      | ❌     | ❌     | ✅     | 💤     | 💤     | 💤     | ✅     | 💤     | ✅     |
 | [Utility Belt](https://github.com/JamCoreModding/utility-belt)                     | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | ❌\*1  | ✅     |
 | [Shut Up GL Error](https://github.com/JamCoreModding/shut-up-gl-error)\*2          | ❌      | ❌     | ❌     | 💤     | 💤     | ❌     | ❌     | ❌     | ❌     | ❌     |
-| [Reaping](https://github.com/JamCoreModding/reaping)                               | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | 🚧     | 🚧     |
-| [Wake Up Time](https://github.com/JamCoreModding/wake-up-time)                     | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | 🚧     | 🚧     |
-| [You May Rest Now](https://github.com/JamCoreModding/you-may-rest-now)             | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | 🚧     | 🚧     |
-| [Quicker Connect Button](https://github.com/JamCoreModding/quicker-connect-button) | ❌      | ❌     | ❌     | ❌     | ❌     | 💤     | 💤     | ✅     | 🚧     | 🚧     |
-| [Sort It Out!](https://github.com/JamCoreModding/sort-it-out) | ❌      | ❌     | ❌     | ❌     | ❌     | ❌     | ❌     | ✅     | ✅     | ✅     |
+| [Reaping](https://github.com/JamCoreModding/reaping)                               | ❌      | ❌     | ❌     | 🚧     | ❌     | 💤     | 💤     | ✅     | ❌     | 🚧     |
+| [Wake Up Time](https://github.com/JamCoreModding/wake-up-time)                     | ❌      | ❌     | ❌     | 🚧     | ❌     | 💤     | 💤     | ✅     | ❌     | 🚧     |
+| [You May Rest Now](https://github.com/JamCoreModding/you-may-rest-now)             | ❌      | ❌     | ❌     | 🚧     | ❌     | 💤     | 💤     | ✅     | ❌     | 🚧     |
+| [Quicker Connect Button](https://github.com/JamCoreModding/quicker-connect-button) | ❌      | ❌     | ❌     | 🚧     | ❌     | 💤     | 💤     | ✅     | ❌     | 🚧     |
+| [Sort It Out!](https://github.com/JamCoreModding/sort-it-out) | ❌      | ❌     | ❌     | 🚧     | ❌     | ❌     | ❌     | ✅     | ✅     | ✅     |
 
 - **\*1**: Accessories does not support this version, so Utility Belt is unavailable for it.
 
