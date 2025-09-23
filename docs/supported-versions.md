@@ -8,7 +8,7 @@ With the exception of Utility Belt, critical issues _might_ still be fixed on
 unsupported versions - this applies to my more popular mods. Please report the
 issue on GitHub, but do not be surprised if it is closed.
 
-| Mod                                                                                | 1.20.1 | 1.20.2 | 1.20.4 | 1.20.6 | 1.21/1.21.1 | 1.21.2/1.21.3 | 1.21.4 | 1.21.5 | 1.21.6/1.21.7 |
+| Mod                                                                                | 1.20.1 | 1.20.2 | 1.20.4 | 1.20.6 | 1.21/1.21.1 | 1.21.2/1.21.3 | 1.21.4 | 1.21.5 | 1.21.6/1.21.7/1.21.8 |
 | ---------------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | [JamLib](https://github.com/JamCoreModding/jamlib)                                 | ✅     | 💤     | 💤     | 💤     | ✅     | 💤     | ✅     | ✅     | ✅     |
 | [RightClickHarvest](https://github.com/JamCoreModding/right-click-harvest)         | ✅     | 💤     | 💤     | 💤     | ✅     | 💤     | ✅     | ✅     | ✅     |
