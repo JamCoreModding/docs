@@ -12,7 +12,7 @@ issue on GitHub, but do not be surprised if it is closed.
 | ---------------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | [JamLib](https://github.com/JamCoreModding/jamlib)                                 | ✅     | 💤     | 💤     | 💤     | ✅     | 💤     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | [RightClickHarvest](https://github.com/JamCoreModding/right-click-harvest)         | ✅     | 💤     | 💤     | 💤     | ✅     | 💤     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| [Utility Belt](https://github.com/JamCoreModding/utility-belt)                     | ❌     | ❌     | 💤     | 💤     | ✅     | ❌\*1  | ✅     | 🚧     | 🚧     | 🚧     | 🚧     |
+| [Utility Belt](https://github.com/JamCoreModding/utility-belt)                     | 🚧     | ❌     | 💤     | 💤     | ✅     | ❌\*1  | ✅     | 🚧     | 🚧     | ✅     | 🚧     |
 | [Shut Up GL Error](https://github.com/JamCoreModding/shut-up-gl-error)          | ✅     | 💤     | ❌     | ❌     | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | [Reaping](https://github.com/JamCoreModding/reaping)                               | 🚧     | ❌     | 💤     | 💤     | ✅     | ❌     | 🚧     | 🚧     | 🚧     | 🚧     | 🚧     |
 | [Wake Up Time](https://github.com/JamCoreModding/wake-up-time)                     | 🚧     | ❌     | 💤     | 💤     | ✅     | ❌     | 🚧     | 🚧     | 🚧     | 🚧     | 🚧     |
