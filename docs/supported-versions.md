@@ -10,8 +10,8 @@ issue on GitHub, but do not be surprised if it is closed.
 
 | Mod                                                                                | 1.20.1 | 1.20.2 | 1.20.4 | 1.20.6 | 1.21/1.21.1 | 1.21.2/1.21.3 | 1.21.4 | 1.21.5 | 1.21.6/1.21.7/1.21.8 | 1.21.9/1.21.10 | 1.21.11 | 26.1.x |
 | ---------------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ----------- | ------------- | ------ | ------ | -------------------- | -------------- | ------- | ------ |
-| [JamLib](https://github.com/JamCoreModding/jamlib)                                 | ✅     | 💤     | 💤     | 💤     | ✅          | 💤            | 💤     | 💤     | 💤                   | 💤             | ✅      | 🚧     |
-| [RightClickHarvest](https://github.com/JamCoreModding/right-click-harvest)         | ✅     | 💤     | 💤     | 💤     | ✅          | 💤            | 💤     | 💤     | 💤                   | 💤             | ✅      | 🚧     |
+| [JamLib](https://github.com/JamCoreModding/jamlib)                                 | ✅     | 💤     | 💤     | 💤     | ✅          | 💤            | 💤     | 💤     | 💤                   | 💤             | ✅      | ✅     |
+| [RightClickHarvest](https://github.com/JamCoreModding/right-click-harvest)         | ✅     | 💤     | 💤     | 💤     | ✅          | 💤            | 💤     | 💤     | 💤                   | 💤             | ✅      | ✅     |
 | [Utility Belt](https://github.com/JamCoreModding/utility-belt)                     | ✅     | ❌     | 💤     | 💤     | ✅          | ❌\*1         | 💤     | ❌     | ❌                   | ✅             | 🚧      | 🚧     |
 | [Shut Up GL Error](https://github.com/JamCoreModding/shut-up-gl-error)             | ✅     | 💤     | ❌     | ❌     | ✅          | ❌            | 💤     | 💤     | 💤                   | 💤             | ✅      | 🚧     |
 | [Reaping](https://github.com/JamCoreModding/reaping)                               | ❌     | ❌     | 💤     | 💤     | ✅          | ❌            | ❌     | ❌     | ❌                   | ❌             | 🚧      | 🚧     |
